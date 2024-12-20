@@ -1,4 +1,5 @@
-![WhatsApp Image 2024-12-20 at 18 51 31](https://github.com/user-attachments/assets/a16ce756-d017-4a92-9290-f6517f25f5eb)
+
+<img src="![WhatsApp Image 2024-12-20 at 18 51 31](https://github.com/user-attachments/assets/a16ce756-d017-4a92-9290-f6517f25f5eb)" alt="Captura de pantalla del celular" width="600"/>
 
 # prueba_flutter
 
