@@ -1,4 +1,4 @@
-<img src="https://github.com/gitFrancoln/app-movil-/blob/main/imagen.jpeg?raw=true" alt="Captura de pantalla del celular" width="600"/>
+<img src="https://github.com/gitFrancoln/app-movil-/blob/main/imagen.jpeg?raw=true" alt="Captura de pantalla del celular" height="300"/>
 
 # prueba_flutter
 
