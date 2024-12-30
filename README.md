@@ -1,7 +1,7 @@
 ## 📸 **Capturas de Pantalla**  
 | Pantalla Principal | 
 |--------------------|
-| ![Pantalla Principal](https://github.com/gitFrancoln/app-movil-/blob/main/imagen.jpeg?raw=true) |
+| <img src="https://github.com/gitFrancoln/app-movil-/blob/main/imagen.jpeg?raw=true" alt="Captura de pantalla del celular" height="300" /> |
 
 # 🌦 **Aplicación del Clima - Flutter**  
 
