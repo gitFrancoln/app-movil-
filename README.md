@@ -62,7 +62,7 @@ La aplicación cuenta con detección automática de ubicación gracias a la func
 ---
   ### 🙌 **Créditos:**
 - **Desarrollador**: Franco Núñez
-- **Correo Electrónico**: franco.nunez@email.com
+- **Correo Electrónico**: franconunezdev@gmail.com
 - **GitHub**: Franco Núñez
 - **API Proveedor**: OpenWeatherMap
 
