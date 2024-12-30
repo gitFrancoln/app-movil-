@@ -1,8 +1,7 @@
 ## 📸 **Capturas de Pantalla**  
 | Pantalla Principal | 
 |--------------------|
-| ![Pantalla Principal](<img src="https://github.com/gitFrancoln/app-movil-/blob/main/imagen.jpeg?raw=true" alt="Captura de pantalla del celular" height="300"/>) |
-
+| ![Pantalla Principal](https://github.com/gitFrancoln/app-movil-/blob/main/imagen.jpeg?raw=true) |
 
 # 🌦 **Aplicación del Clima - Flutter**  
 
@@ -60,4 +59,10 @@ La aplicación cuenta con detección automática de ubicación gracias a la func
    ```bash
    git clone https://github.com/gitFrancoln/app-movil
    cd app-movil
+---
+  ### 🙌 **Créditos:**
+- **Desarrollador**: Franco Núñez
+- **Correo Electrónico**: franco.nunez@email.com
+- **GitHub**: Franco Núñez
+- **API Proveedor**: OpenWeatherMap
 
